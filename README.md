@@ -1,2 +1,4 @@
 # typing-trainer project
-Typing Trainer repository for practice
+Typing Trainer repository 
+
+Pet project №1
