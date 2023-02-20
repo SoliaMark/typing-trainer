@@ -1,2 +1,2 @@
-# pet-projects
-Pet Projects repository for Frontend Practice
+# typing-trainer project
+Typing Trainer repository for practice
